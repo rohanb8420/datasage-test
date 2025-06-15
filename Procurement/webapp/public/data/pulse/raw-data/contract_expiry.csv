@@ -1,0 +1,6 @@
+contract_id,vendor,expiry_date
+ContractA,VendorB,2025-05-21
+ContractB,VendorD,2025-09-12
+ContractC,VendorD,2025-12-15
+ContractD,VendorB,2025-03-16
+ContractE,VendorC,2025-08-04

@@ -1,0 +1,5 @@
+[
+  { "supplier": "Supplier A", "OTIF": 90, "PPM": 85, "Quality": 80, "ESG": 70, "Innovation": 65 },
+  { "supplier": "Supplier B", "OTIF": 75, "PPM": 65, "Quality": 90, "ESG": 80, "Innovation": 70 },
+  { "supplier": "Supplier C", "OTIF": 60, "PPM": 70, "Quality": 75, "ESG": 55, "Innovation": 60 }
+]

@@ -1,0 +1,11 @@
+FROM node:18-alpine
+WORKDIR /app
+COPY webapp/package*.json ./
+COPY webapp/tsconfig.json ./
+COPY webapp/postcss.config.js ./
+COPY webapp/tailwind.config.js ./
+COPY webapp/public ./public
+COPY webapp/src ./src
+RUN npm install
+EXPOSE 3001
+CMD ["npm", "start"]

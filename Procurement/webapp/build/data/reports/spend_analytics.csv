@@ -1,0 +1,8 @@
+section,item
+Reports,Spend by Category & Business Unit
+Reports,Top 10 Suppliers by Spend
+Reports,MoM Trend Charts
+Model Outputs,Spend Forecast (time-series + confidence bands)
+Model Outputs,Anomaly Detection
+Key Info,Largest Unexpected Spend Variance
+Key Info,Category with Highest Growth

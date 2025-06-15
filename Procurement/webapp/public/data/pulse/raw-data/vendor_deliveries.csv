@@ -1,0 +1,101 @@
+date,vendor,product,quantity_delivered,delivery_status
+2024-09-23,VendorB,Steel Rods,404,Early
+2024-12-23,VendorA,Copper Wire,249,Early
+2024-07-15,VendorD,Steel Rods,153,On Time
+2024-04-08,VendorD,Steel Rods,106,On Time
+2024-10-21,VendorD,Copper Wire,210,Early
+2024-02-19,VendorA,Fuel Drums,133,Early
+2024-05-20,VendorA,Fuel Drums,196,Delayed
+2024-09-23,VendorA,Fuel Drums,335,Early
+2024-05-06,VendorC,Fuel Drums,473,Delayed
+2024-06-03,VendorA,Fuel Drums,358,Delayed
+2024-03-11,VendorA,Copper Wire,268,Delayed
+2024-03-11,VendorA,Copper Wire,157,Delayed
+2024-06-10,VendorC,Aluminium Sheets,261,Delayed
+2024-12-30,VendorA,Fuel Drums,452,On Time
+2024-09-02,VendorD,Copper Wire,429,Early
+2024-09-30,VendorA,Aluminium Sheets,412,Delayed
+2024-06-10,VendorD,Fuel Drums,355,Early
+2024-01-15,VendorD,Steel Rods,460,Early
+2024-05-27,VendorD,Aluminium Sheets,156,Delayed
+2024-12-30,VendorC,Copper Wire,157,On Time
+2024-01-08,VendorC,Steel Rods,361,Delayed
+2024-06-10,VendorC,Steel Rods,208,On Time
+2024-10-28,VendorA,Steel Rods,317,Early
+2024-07-22,VendorD,Aluminium Sheets,498,On Time
+2024-09-16,VendorC,Copper Wire,426,On Time
+2024-01-08,VendorC,Steel Rods,433,On Time
+2024-05-20,VendorA,Fuel Drums,137,Early
+2024-08-12,VendorC,Steel Rods,48,Early
+2024-03-18,VendorA,Steel Rods,347,On Time
+2024-05-27,VendorB,Aluminium Sheets,369,On Time
+2024-10-28,VendorC,Aluminium Sheets,138,Delayed
+2024-06-17,VendorB,Copper Wire,276,On Time
+2024-12-02,VendorA,Fuel Drums,485,Delayed
+2024-07-01,VendorD,Aluminium Sheets,450,On Time
+2024-10-14,VendorC,Steel Rods,482,Delayed
+2024-07-08,VendorA,Copper Wire,443,Early
+2024-04-15,VendorD,Steel Rods,160,On Time
+2024-04-08,VendorD,Steel Rods,424,On Time
+2024-11-18,VendorB,Aluminium Sheets,487,On Time
+2024-12-16,VendorA,Copper Wire,307,On Time
+2024-10-28,VendorD,Fuel Drums,108,Delayed
+2024-12-23,VendorC,Fuel Drums,272,On Time
+2024-01-15,VendorC,Aluminium Sheets,261,Early
+2024-09-09,VendorB,Aluminium Sheets,153,Early
+2024-12-16,VendorD,Copper Wire,355,On Time
+2024-02-12,VendorA,Fuel Drums,121,Early
+2024-05-20,VendorC,Fuel Drums,69,On Time
+2024-02-26,VendorD,Fuel Drums,378,On Time
+2024-09-23,VendorD,Steel Rods,11,Early
+2024-04-29,VendorB,Fuel Drums,394,On Time
+2024-01-22,VendorC,Steel Rods,313,Early
+2024-06-17,VendorC,Copper Wire,263,Delayed
+2024-04-01,VendorA,Steel Rods,149,On Time
+2024-12-09,VendorC,Copper Wire,462,Delayed
+2024-02-26,VendorA,Fuel Drums,46,Early
+2024-06-24,VendorC,Fuel Drums,169,Delayed
+2024-12-30,VendorB,Copper Wire,18,Delayed
+2024-01-08,VendorC,Aluminium Sheets,242,Early
+2024-05-13,VendorA,Copper Wire,108,Delayed
+2024-07-08,VendorA,Aluminium Sheets,156,Delayed
+2024-11-18,VendorB,Steel Rods,313,Early
+2024-02-12,VendorC,Steel Rods,217,Delayed
+2024-10-28,VendorC,Steel Rods,140,Early
+2024-02-19,VendorB,Fuel Drums,413,Delayed
+2024-11-18,VendorC,Steel Rods,161,Early
+2024-08-26,VendorC,Aluminium Sheets,63,Early
+2024-04-01,VendorA,Steel Rods,129,Delayed
+2024-04-22,VendorC,Copper Wire,170,Delayed
+2024-09-02,VendorC,Copper Wire,417,Delayed
+2024-12-09,VendorB,Fuel Drums,125,On Time
+2024-09-30,VendorB,Copper Wire,84,On Time
+2024-01-22,VendorD,Aluminium Sheets,122,On Time
+2024-01-08,VendorA,Steel Rods,465,Early
+2024-02-05,VendorC,Fuel Drums,429,Delayed
+2025-01-06,VendorC,Steel Rods,431,Early
+2024-10-14,VendorD,Steel Rods,113,On Time
+2024-01-22,VendorC,Aluminium Sheets,349,Delayed
+2025-01-06,VendorA,Copper Wire,263,Early
+2024-07-15,VendorD,Copper Wire,236,Delayed
+2024-04-29,VendorA,Steel Rods,121,Early
+2024-06-24,VendorD,Fuel Drums,482,Delayed
+2024-10-28,VendorD,Copper Wire,108,On Time
+2024-08-19,VendorB,Fuel Drums,162,On Time
+2024-03-04,VendorA,Copper Wire,358,Delayed
+2024-09-02,VendorC,Fuel Drums,411,Early
+2024-04-01,VendorC,Aluminium Sheets,393,On Time
+2024-07-29,VendorA,Fuel Drums,375,On Time
+2024-11-25,VendorC,Aluminium Sheets,347,On Time
+2024-04-08,VendorC,Aluminium Sheets,203,Delayed
+2024-02-19,VendorA,Fuel Drums,319,Delayed
+2024-04-01,VendorD,Aluminium Sheets,172,Early
+2024-06-03,VendorA,Steel Rods,217,Early
+2024-09-30,VendorD,Aluminium Sheets,454,Early
+2024-05-20,VendorC,Copper Wire,178,Delayed
+2024-04-15,VendorC,Fuel Drums,493,Delayed
+2024-11-04,VendorC,Steel Rods,170,Early
+2024-04-29,VendorB,Fuel Drums,77,Early
+2024-11-18,VendorD,Copper Wire,298,Delayed
+2024-12-30,VendorB,Copper Wire,407,Early
+2024-06-10,VendorB,Copper Wire,286,On Time

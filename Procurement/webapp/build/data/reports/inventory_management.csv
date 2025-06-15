@@ -1,0 +1,8 @@
+section,item
+Reports,Stock Levels vs. Reorder Points
+Reports,Inventory Turnover Ratio
+Reports,Aging Inventory
+Model Outputs,Demand Forecast per SKU
+Model Outputs,Suggested Reorder Quantities
+Key Info,SKUs at Risk of Stock-Out
+Key Info,Overstocked Items

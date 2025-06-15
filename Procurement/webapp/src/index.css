@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+
+/* Neumorphic card styles */
+@layer components {
+  .neu-card {
+    @apply bg-white border border-gray-200 dark:bg-carddark dark:border-gray-800 rounded-2xl shadow-lg transition-all duration-150 hover:shadow-xl;
+  }
+  /* Minimalistic button styles */
+  .btn-primary {
+    @apply bg-white border border-black text-black rounded transition-colors duration-150 hover:bg-black hover:text-white;
+  }
+  .btn-secondary {
+    @apply bg-transparent text-black rounded transition-colors duration-150 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-800;
+  }
+}
+@tailwind utilities;
+/* Chart theme variables */
+:root {
+  --chart-line-main: #10B981;
+  --chart-line-secondary: #6366F1;
+  --chart-line-alert: #DC2626;
+  --chart-line-neutral: #6B7280;
+  --chart-highlight: #F97316;
+  --chart-grid-stroke: #D1D5DB;
+}
+.dark {
+  --chart-line-main: #22C55E;
+  --chart-line-secondary: #3B82F6;
+  --chart-line-alert: #EF4444;
+  --chart-line-neutral: #9CA3AF;
+  --chart-highlight: #8B5CF6;
+  --chart-grid-stroke: #4B5563;
+}

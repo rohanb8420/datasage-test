@@ -1,0 +1,8 @@
+FROM node:18-alpine
+WORKDIR /app
+COPY services/api/package*.json ./
+COPY services/api/tsconfig.json ./
+COPY services/api/src ./src
+RUN npm install
+EXPOSE 3000
+CMD ["npm", "run", "start"]

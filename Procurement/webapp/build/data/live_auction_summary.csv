@@ -1,0 +1,5 @@
+auction_id,item,num_bids,leading_bidder
+AUC001,Office Chairs,10,Supplier X
+AUC002,Steel Beams,5,Supplier Y
+AUC003,Catering Services,8,Supplier Z
+AUC004,Packaging Material,12,Supplier W

@@ -1,0 +1,12 @@
+{
+  "name": "datasage",
+  "private": true,
+  "scripts": {
+    "start:api": "cd services/api && npm install && npm run dev",
+    "start:web": "cd webapp && npm install && npm start",
+    "start": "concurrently \"npm run start:api\" \"npm run start:web\""
+  },
+  "devDependencies": {
+    "concurrently": "^7.6.0"
+  }
+}
